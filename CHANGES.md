@@ -1,3 +1,8 @@
+# Version 1.1.2
+
+## Bugs
+- Fix default oauth paths [#4725](https://github.com/appwrite/appwrite/pull/4725)
+
 # Version 1.1.1
 
 ## Bugs
